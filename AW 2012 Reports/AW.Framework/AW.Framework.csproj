@@ -122,6 +122,7 @@
     <Compile Include="Entities\WorkOrder.cs" />
     <Compile Include="Entities\WorkOrderRouting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportModels\VendorProductsInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
